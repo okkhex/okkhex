@@ -79,6 +79,10 @@
     <img src="https://github-readme-stats-ten-chi-22.vercel.app/api?username=okkhex&theme=radical&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="okkhex's GitHub Stats" style="max-width: 100%; height: auto; border-radius: 10px;" />
     <img src="https://github-readme-stats-ten-chi-22.vercel.app/api/top-langs?username=okkhex&theme=radical&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="okkhex's Most Used Languages" style="max-width: 100%; height: auto; border-radius: 10px;" />
   </div>
+  </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=okkhex&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
+</div>
 
   <hr style="border: none; height: 2px; background-color: #ddd; margin: 30px 0;">
 

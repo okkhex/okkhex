@@ -81,7 +81,7 @@
   </div>
   </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=okkhex&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=okkhex&theme=radical&date_format=j%20M%5B%20Y%5D" height="190" alt="streak graph"  />
 </div>
 
   <hr style="border: none; height: 2px; background-color: #ddd; margin: 30px 0;">
